@@ -1,0 +1,14 @@
+1.
+SELECT count(mid) FROM table WHERE mid=?
+param()
+
+rs['reply_count']
+if rs['reply_count'] > 5 && < 10
+    class="blue"
+    else if
+    else if
+2.
+|id|mid|who|
+SELECT * FROM msg WHERE mid=5 
+like
+½Ö¨Ó«öÆg¬ö¿ý½Ö
